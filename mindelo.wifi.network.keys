@@ -7,8 +7,14 @@ mindelo
 cape verde
 # --
 
+bar.simpatico.sports
+pswd = "simpatico2022";
+
 cultural.center.mindelo
-pswd = "beijamindel"/"beijaMindel";
+pswd = "beijaMindel";
+
+coffee.shop.cafe.mindelo
+pswd = "cafas2022"
 
 cultural.center.pt
 pswd = "Camoes1985";
