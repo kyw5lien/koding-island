@@ -7,8 +7,7 @@ mindelo
 cape verde
 # --
 
-
-cafe.bakery.morabeza
+morabeza.bakery
 pswd="natas01072012";
 
 cultural.bar.nho.djunga
@@ -23,54 +22,18 @@ pswd="Camoes1985";
 library-iscee
 pwsd: "Biblio.123&";
 
-restaurant.vale.d.garça
-pswd: "G4bR13L#100";
-
 plaza.skate
 pswd="metalo1996";
 
 plaza.czarya
 pswd="cafas2222";
 
+sightseeing.marina
+pswd="floatingbar22";
+
 ---
 
-beach.kalimba
-pswd=
-
-beach.caravela
-pswd=
-
-bar.jazzy.bird
-pswd=
-
-bar.mansa.floating.hub
-pswd=
-
-bar.prassa.3
-pswd=
-
-bar.simpaticos
-pswd=
-
-cafe.cremositos
-pswd=
-
-cafe.verde
-pswd=
-
-cafe.restaurant.retimar
-pswd=
-
-cafe.restaurant.mindelo
-pswd=
-
-hotel.mindel
-pswd=
-
-hotel.porto.grande
-pswd=
-
-floating.bistro.marina
+beach.laginha
 pswd=
 
 library.municipal
@@ -79,5 +42,6 @@ pswd=
 plaza.center
 pswd=
 
-plaza.retimar
+plaza.playground
+pswd=
 pswd=
