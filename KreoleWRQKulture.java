@@ -1,3 +1,5 @@
+import kreole.sdg.cs.fibonnaci.sequencer;
+
 class KreolePiece{
 public static String printConvertedPieceChar(int I){
 	int piece = (char) I;
